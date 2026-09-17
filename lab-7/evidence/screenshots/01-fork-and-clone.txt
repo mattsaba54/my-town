@@ -1,0 +1,6 @@
+Parent repository: https://github.com/cit-iti/my-town
+
+My fork repository: https://github.com/mattsaba54/my-town
+
+Local clone: C:\Users\vdsab\OneDrive\Documents\GitHub\my-town
+I forked the original cit-iti/my-town repository to my GitHub account and cloned my fork to my computer using GitHub Desktop.
