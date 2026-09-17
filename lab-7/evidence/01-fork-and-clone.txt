@@ -1,0 +1,6 @@
+Branch name: my-city
+
+Commit 1: Add Oxford city facts
+Commit 2: Add Flint city facts
+
+I created both oxford.txt and flint.txt while working on the my-city branch. I made a separate commit for each city file and then published the my-city branch to my GitHub fork.
