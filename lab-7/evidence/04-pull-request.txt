@@ -1,0 +1,18 @@
+Pull Request URL:
+https://github.com/cit-iti/my-town/pull/23
+
+Pull Request Title:
+Add Oxford and Flint city information
+
+Base repository/branch:
+cit-iti/my-town - main
+
+Compare repository/branch:
+mattsaba54/my-town - main
+
+Changed city files:
+oxford.txt
+flint.txt
+
+Review summary:
+This pull request adds information about Oxford and Flint, Michigan. The city files were originally completed on the my-city feature branch and then merged into the main branch of my fork. The maintainer should review the city facts and formatting in oxford.txt and flint.txt.
